@@ -7,12 +7,7 @@ con el comando
 pip install -r requirements.txt
 ```
 
-Podemos ejecutar el entorno virtual con el comando
-```shell
-.\env\Scripts\activate
-```
-
-Una vez ejecutado el ```env``` podemos ejecutar el archivo ```main.py``` con el comando
+Podemos ejecutar el archivo ```main.py``` con el comando
 ```shell
 python .\src\main.py
 ```
@@ -57,12 +52,7 @@ with the command
 pip install -r requirements.txt
 ```
 
-We can run the virtual environment with the command
-```shell
-.\env\Scripts\activate
-```
-
-Once the ```env``` has been executed, we can execute the ```main.py``` file with the command
+We can execute the ```main.py``` file with the command
 ```shell
 python .\src\main.py
 ```
