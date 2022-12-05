@@ -17,11 +17,11 @@ Y listo tenemos nuestro reloj hecho en FLET
 
 "D" para modo oscuro
 
-![Modo oscuro](images\modo_oscuro.jpg)
+![Modo oscuro](\images\modo_oscuro.jpg)
  
 "L" para modo claro
 
-![Modo claro](images\modo_claro.jpg)
+![Modo claro](\images\modo_claro.jpg)
 
  
 "F11" para pantalla completa
@@ -32,11 +32,11 @@ Y listo tenemos nuestro reloj hecho en FLET
 
 "D" para modo oscuro
 
-![Modo oscuro](images\modo_oscuro.jpg)
+![Modo oscuro](\images\modo_oscuro.jpg)
  
 "L" para modo claro
 
-![Modo claro](images\modo_claro.jpg)
+![Modo claro](\images\modo_claro.jpg)
 
  
 "F11" para entrar y salir de pantalla completa
@@ -62,11 +62,11 @@ And ready we have our watch made in FLET
 
 "D" for dark mode
 
-![Dark Mode](images\modo_oscuro.jpg)
+![Dark Mode](\images\modo_oscuro.jpg)
  
 "L" for light mode
 
-![Light Mode](images\modo_claro.jpg)
+![Light Mode](\images\modo_claro.jpg)
 
  
 "F11" for full screen
@@ -77,11 +77,11 @@ And ready we have our watch made in FLET
 
 "D" for dark mode
 
-![Dark Mode](images\modo_oscuro.jpg)
+![Dark Mode](\images\modo_oscuro.jpg)
  
 "L" for light mode
 
-![Light Mode](images\modo_claro.jpg)
+![Light Mode](\images\modo_claro.jpg)
 
  
 "F11" to enter and exit full screen
